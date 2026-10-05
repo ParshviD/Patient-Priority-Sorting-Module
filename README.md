@@ -66,7 +66,7 @@ The modular structure allows the comparison logic to be reused instead of duplic
 | Blood Pressure | 90–120 | 80–89 or 121–180 | <80 or >180 |
 | SpO₂ | 95–100 | 90–94 | <90 |
 
-These thresholds are defined centrally in `global_defs.vh` so that the different modules use the same reference values. :chatgpt-content-reference{index="3"}
+These thresholds are defined centrally in `global_defs.vh` so that the different modules use the same reference values.
 
 ---
 
