@@ -54,7 +54,7 @@ The design is divided into eight main files:
 | `top_module.v` | Integrates the complete design |
 | `testbench.v` | Runs simulation scenarios and displays the results |
 
-The modular structure allows the comparison logic to be reused instead of duplicating it throughout the design. :chatgpt-content-reference{index="2"}
+The modular structure allows the comparison logic to be reused instead of duplicating it throughout the design. 
 
 ---
 
